@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README #
 
 This README would normally document.
@@ -14,3 +15,6 @@ This README would normally document.
 
 * The only thing what you must to do for use this librarie is fork a repo or dowload the correct file and include in your
 source file "libresources.hpp"
+=======
+# lib-utils
+>>>>>>> 2a3d63a119a8f4fc40276a0a618934e4c351638e
