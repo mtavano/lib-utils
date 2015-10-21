@@ -11,6 +11,3 @@
 ### How to use this lib? ###
 
 * This library is headers only code.
-=======
-# lib-utils
->>>>>>> 2a3d63a119a8f4fc40276a0a618934e4c351638e
